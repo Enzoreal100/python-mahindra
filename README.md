@@ -92,3 +92,5 @@ O usuário ou administrador pode sair do sistema, encerrando a sessão.
 ## Conclusão
 O projeto **TechAdvanced** proporciona uma experiência interativa para usuários e administradores, permitindo a gestão de NFTs de maneira intuitiva e dinâmica. As funções de verificação e manipulação de dados garantem que as interações sejam seguras e precisas.
 
+## Link para o vídeo demonstrativo
+https://youtu.be/vvRnLMcD1tw
